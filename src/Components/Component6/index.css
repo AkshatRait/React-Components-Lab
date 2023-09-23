@@ -1,0 +1,9 @@
+.image-carousel img {
+    max-width: 100px;
+    margin: auto;
+  }
+  .image-carousel {
+    display: flex;
+    flex-direction: column;
+  }
+  
